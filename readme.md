@@ -2,6 +2,7 @@
 
 Ext JS5의 API를 사용 작성된 웹앱입니다. 앱 생성은 Getting Start를 참고하세요. 
 
+![](https://github.com/KoreaHTML5/quickstart-extjs/blob/38728553986e2d73fb43f42480d1203fe59ebb22/snapshot.png)
 
 ## 어플리케이션 설정
 
